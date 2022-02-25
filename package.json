@@ -1,0 +1,11 @@
+{
+  "name": "nodejsjest",
+  "version": "1.0.0",
+  "description": "projeto de teste de jest",
+  "main": "recepcionista.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "mike",
+  "license": "ISC"
+}
